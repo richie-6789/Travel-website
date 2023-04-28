@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Travel-website/static/css/main.e2f82291.css",
+    "main.js": "/Travel-website/static/js/main.677c7db4.js",
+    "static/media/beachVid1.mp4": "/Travel-website/static/media/beachVid1.1ec2c58b960c5281e9fb.mp4",
+    "static/media/dosome.jpg": "/Travel-website/static/media/dosome.3cfe2b561a57fd038bac.jpg",
+    "static/media/boat2.jpg": "/Travel-website/static/media/boat2.def78961399cffe43b9d.jpg",
+    "static/media/airview.jpg": "/Travel-website/static/media/airview.4604342aa3894f32c654.jpg",
+    "static/media/boat6.jpg": "/Travel-website/static/media/boat6.f641b800993cbf14aa5d.jpg",
+    "static/media/some2.jpg": "/Travel-website/static/media/some2.a9111473495b5addb00b.jpg",
+    "static/media/maldavies123.jpg": "/Travel-website/static/media/maldavies123.72a4a0121f1ba7dad526.jpg",
+    "static/media/borabora123.jpg": "/Travel-website/static/media/borabora123.2c98f272188b2960448c.jpg",
+    "static/media/maldives2.jpg": "/Travel-website/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora2.jpg": "/Travel-website/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "index.html": "/Travel-website/index.html",
+    "main.e2f82291.css.map": "/Travel-website/static/css/main.e2f82291.css.map",
+    "main.677c7db4.js.map": "/Travel-website/static/js/main.677c7db4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2f82291.css",
+    "static/js/main.677c7db4.js"
+  ]
+}
